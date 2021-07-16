@@ -8,3 +8,18 @@ hr {
     border-color: #b70382;
     border-width: 8px;
 }
+
+h2 {
+    color: #31251c;
+    font-family: 'Mukta';
+}
+
+p {
+    font-family: 'Mukta';
+    font-weight: 300;
+}
+
+table td {
+    font-family: 'Mukta';
+    font-weight: 300;
+}
